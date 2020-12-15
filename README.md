@@ -58,15 +58,10 @@ In a nutshell, Airbnb in Seattle has its own situation, and most parts are posit
 We used a Shiny App to document our investigation and analysis of the data. In most parts, we used ‘dplyr’, ‘ggplot2’, and ‘leaflet’ to produce the outputs we wanted. In order to improve our surface much more concise, we created and wrote many datasets and stored them in the repository.
 A challenge we faced was creating a map including every housing information inside. This was solved by debugging again and again.
 
-# Team Members
+# Credit
 
-* Yongzhi Li: yongzhi@uw.edu
+* Miranda Zhang: siyao.zhang@mail.mcgill.ca
 
-* Siyao Zhang: siyaoz3@uw.edu
-
-* Vanessa Lin: lint272@uw.edu
-
-* Kairui Liu: liuk25@uw.edu
 
 # Link to the data set we used:
 * http://insideairbnb.com/get-the-data.html
