@@ -141,11 +141,8 @@ shinyUI(fluidPage(
                                  ),
                         tabPanel("Contact Us",
                                  p("We are more than happy to hear from you. For any concern or comments on our project, feel free to email us."),
-                                 tags$h3("Team members"),
-                                 p("Yongzhi Li: yongzhi@uw.edu"),
-                                 p("Siyao Zhang: siyaoz3@uw.edu"),
-                                 p("Vanessa Lin: lint272@uw.edu"),
-                                 p("Kairui Liu: liuk25@uw.edu")
+                                 tags$h3("Credit"),
+                                 p("Miranda Zhang: siyaol.zhang@mail.mcgill.ca"),
                         )
                         
                         )
