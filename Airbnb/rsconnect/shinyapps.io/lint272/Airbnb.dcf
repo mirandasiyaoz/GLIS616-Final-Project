@@ -1,0 +1,13 @@
+name: Airbnb
+title: Airbnb
+username:
+account: lint272
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 604744
+bundleId: 1742238
+url: https://lint272.shinyapps.io/Airbnb/
+when: 1544008472.84605
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|.RData|README.md|script/dataframes.R
